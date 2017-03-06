@@ -4,6 +4,7 @@
 
 > - [Instantiation](#instantiation)
 > - [API](#api)
+> - [Contributing](#contributing)
 
 ## Installation
 
@@ -22,5 +23,10 @@
 
 
 ## API
+
+Coming soon.
+
+
+## Contributing
 
 Coming soon.
